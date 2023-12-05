@@ -1,0 +1,22 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+section {
+  text-align: center;
+}
+
+h1 {
+  flex-grow: 100;
+}
+
+h2 {
+  margin: 0;
+  font-size: min(50vh, 20vw);
+  color: blueviolet;
+}
