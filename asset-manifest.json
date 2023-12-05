@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/licznik-dla-wiki/static/css/main.bbe8b8ff.css",
+    "main.js": "/licznik-dla-wiki/static/js/main.a734aa26.js",
+    "static/js/787.8b296698.chunk.js": "/licznik-dla-wiki/static/js/787.8b296698.chunk.js",
+    "index.html": "/licznik-dla-wiki/index.html",
+    "main.bbe8b8ff.css.map": "/licznik-dla-wiki/static/css/main.bbe8b8ff.css.map",
+    "main.a734aa26.js.map": "/licznik-dla-wiki/static/js/main.a734aa26.js.map",
+    "787.8b296698.chunk.js.map": "/licznik-dla-wiki/static/js/787.8b296698.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbe8b8ff.css",
+    "static/js/main.a734aa26.js"
+  ]
+}
